@@ -1,0 +1,12 @@
+# Dashboard + analysis
+streamlit>=1.50
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+plotly>=5.22
+zipcodes>=1.2
+
+# Notebook figures and PDF reports (not needed to run the dashboard)
+matplotlib>=3.8
+reportlab>=4.0
+jupyter>=1.0

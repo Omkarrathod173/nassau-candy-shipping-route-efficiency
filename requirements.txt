@@ -5,8 +5,9 @@ numpy>=1.26
 scipy>=1.11
 plotly>=5.22
 zipcodes>=1.2
+matplotlib>=3.8
 
 # Notebook figures and PDF reports (not needed to run the dashboard)
-matplotlib>=3.8
+-r requirements.txt
 reportlab>=4.0
 jupyter>=1.0
